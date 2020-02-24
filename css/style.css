@@ -12,7 +12,11 @@ body {
   font-weight: normal;
   font-style: normal;
 }
-
+.my_img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
 /* line 12, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/theme-default.scss */
 .img {
   max-width: 100%;
